@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/q28zhang/q28zhang/bonus/dpll.cc
+vector
+-
+map
+-
+algorithm
+-
+iostream
+-
+cmath
+-
+dpll.h
+/home/q28zhang/q28zhang/bonus/dpll.h
+
+/home/q28zhang/q28zhang/bonus/dpll.h
+vector
+-
+map
+-
+

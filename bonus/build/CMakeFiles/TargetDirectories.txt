@@ -1,0 +1,3 @@
+/home/q28zhang/q28zhang/bonus/build/CMakeFiles/rebuild_cache.dir
+/home/q28zhang/q28zhang/bonus/build/CMakeFiles/edit_cache.dir
+/home/q28zhang/q28zhang/bonus/build/CMakeFiles/bonus.dir

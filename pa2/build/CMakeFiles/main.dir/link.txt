@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -Wall   -rdynamic CMakeFiles/main.dir/main.cc.o CMakeFiles/main.dir/parser.cc.o CMakeFiles/main.dir/tokenizer.cc.o CMakeFiles/main.dir/tseitinTransformer.cc.o  -o main minisat/libminisat.a -lz 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -Wall   -rdynamic CMakeFiles/bonus.dir/bonus.cc.o CMakeFiles/bonus.dir/dpll.cc.o CMakeFiles/bonus.dir/parser.cc.o CMakeFiles/bonus.dir/tokenizer.cc.o CMakeFiles/bonus.dir/tseitinTransformer.cc.o  -o bonus 

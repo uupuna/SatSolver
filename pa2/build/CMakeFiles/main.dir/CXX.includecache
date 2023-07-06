@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/q28zhang/q28zhang/new_pa2/parser.cc
+parser.h
+/home/q28zhang/q28zhang/new_pa2/parser.h
+treeNode.h
+/home/q28zhang/q28zhang/new_pa2/treeNode.h
+tokenizer.h
+/home/q28zhang/q28zhang/new_pa2/tokenizer.h
+iostream
+-
+algorithm
+-
+
+/home/q28zhang/q28zhang/new_pa2/parser.h
+string
+-
+map
+-
+tokenizer.h
+/home/q28zhang/q28zhang/new_pa2/tokenizer.h
+
+/home/q28zhang/q28zhang/new_pa2/tokenizer.h
+string
+-
+vector
+-
+
+/home/q28zhang/q28zhang/new_pa2/treeNode.h
+string
+-
+
